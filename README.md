@@ -1,6 +1,6 @@
 
 ### Muhammad Ali (MiKe_Alpha) 
-### <code>ᶠYͧoͨᵏu</code>
+### ᶠYͧoͨᵏu
 ### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
 
 <code>MiKe_Alpha </code>
