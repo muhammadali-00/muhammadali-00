@@ -5,7 +5,7 @@
 
 <code>MiKe_Alpha </code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;Develop3r;Gen+Z+Braniac)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;Develop3r;Gen+Z+Brainiac)](https://git.io/typing-svg)
 
 
 ### 🧰 Languages and Tools
