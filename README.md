@@ -6,7 +6,9 @@
 <code>MiKe_Alpha </code>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;Develop3r)](https://git.io/typing-svg)
-<marquee>Im lost in my quantum world of possibilities and probabilities</marquee>
+
+
+<body onload=”changeColour(‘blinky’);”>   <script type=”text/javascript”><!–   function changeColour(elementId) {     var interval = 100;     var colour1 = “#ff00ff”, colour2 = “blue”;     if (document.getElementById) {       var element = document.getElementById(elementId);       element.style.color = (element.style.color == colour1) ? colour2 : colour1;       setTimeout(“changeColour(‘” + elementId + “‘)”, interval);     }   }   //–></script>  Im lost in my quantum world of possibilities and probabilities <p id=”blinky”></p>
 
 ### 🧰 Languages and Tools
 
