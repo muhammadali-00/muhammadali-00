@@ -1,4 +1,8 @@
-### Hi there 👋
+### Muhammad Ali (MiKe_Alpha) ▄︻デ══━一💥
+### ᶠYͧoͨᵏu
+### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
+
+I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. My journey in tech has been driven by a relentless pursuit of knowledge and a vision to make a meaningful impact. 
 
 <!--
 **muhammadali-00/muhammadali-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
