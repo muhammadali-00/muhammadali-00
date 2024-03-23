@@ -1,4 +1,4 @@
-<p align="left">
+
 ### Muhammad Ali (MiKe_Alpha) 
 ### ᶠYͧoͨᵏu
 ### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
@@ -46,5 +46,5 @@ Mike_Alpha's
 <a href="https://www.linkedin.com/in/muhammad-ali-8961b5227/"> LinkedIn</a> </br>
 Mike_Alpha's
 <a href="https://www.instagram.com/programm3r_/" color="Red"> Instagram</a>
-<p/>
+
 
