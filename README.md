@@ -5,7 +5,7 @@
 
 <code>MiKe_Alpha </code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3;Second+|+;Develop3r)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;|+;Develop3r)](https://git.io/typing-svg)
 
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. Dedicated to crafting innovative software solutions that address real-world challenges. My journey in technology has been fueled by an insatiable thirst for knowledge and a commitment to making a meaningful impact.
 
