@@ -1,6 +1,8 @@
-### Muhammad Ali (MiKe_Alpha) ▄︻デ══━一💥
+### Muhammad Ali (MiKe_Alpha) 
 ### ᶠYͧoͨᵏu
 ### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
+
+***' MiKe_Alpha ( Developer | Programm3r) '**
 
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. My journey in tech has been driven by a relentless pursuit of knowledge and a vision to make a meaningful impact. 
 
