@@ -20,6 +20,7 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </br>
+</br>
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. Dedicated to crafting innovative software solutions that address real-world challenges. My journey in technology has been fueled by an insatiable thirst for knowledge and a commitment to making a meaningful impact.
 
 Currently, I'm immersing myself in the captivating realms of Machine Learning (ML), Deep Learning (DL) and Quantum Computing. I firmly believe that these cutting-edge technologies possess the potential to instigate transformative changes, particularly when integrated with Blockchain. My objective is to harness the learning capabilities of ML and DL to enhance the intelligence of blockchain networks.
