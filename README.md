@@ -5,11 +5,11 @@
 
 <code>MiKe_Alpha </code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;Develop3r)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3r;Develop3r;Im lost in my quantum world of possibilities and probabilities)](https://git.io/typing-svg)
 
 
 ### 🧰 Languages and Tools
-
+</br>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/c/27/c.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -39,10 +39,8 @@ In terms of projects, I'm engaged in several exciting endeavors:
 - Multi-Vendor E-commerce Store (DBMS)
 - Image Processing System (ML)
 - Pacman Game (Pygame)
-- 
 
 Through these projects, I aim to further refine my skills, deepen my understanding of emerging technologies, and contribute meaningfully to the field of Computer Science.
 </br>
->
 
 
