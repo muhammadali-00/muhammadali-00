@@ -25,8 +25,10 @@ In terms of projects, I'm engaged in several exciting endeavors:
 - Pacman Game (Pygame)
 
 Through these projects, I aim to further refine my skills, deepen my understanding of emerging technologies, and contribute meaningfully to the field of Computer Science.
-
-<a href="https://www.linkedin.com/in/muhammad-ali-8961b5227/">Mike_ALpha's LInkedIn</a>
-<a href="">Mike_ALpha's </a>
+</br>
+Mike_ALpha's LinkedIn
+<a href="https://www.linkedin.com/in/muhammad-ali-8961b5227/"></a> </br>
+Mike_ALpha's
+<a href=""> Facebook</a>
 <p/>
 
