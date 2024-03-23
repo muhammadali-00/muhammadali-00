@@ -3,7 +3,9 @@
 ### ᶠYͧoͨᵏu
 ### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
 
-<code>MiKe_Alpha ( Developer | Programm3r )</code>
+<code>MiKe_Alpha </code>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Programm3;Second+|+;Develop3r)](https://git.io/typing-svg)
 
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. Dedicated to crafting innovative software solutions that address real-world challenges. My journey in technology has been fueled by an insatiable thirst for knowledge and a commitment to making a meaningful impact.
 
@@ -26,8 +28,8 @@ In terms of projects, I'm engaged in several exciting endeavors:
 
 Through these projects, I aim to further refine my skills, deepen my understanding of emerging technologies, and contribute meaningfully to the field of Computer Science.
 </br>
-Mike_Alpha's LinkedIn
-<a href="https://www.linkedin.com/in/muhammad-ali-8961b5227/" color="cyan"></a> </br>
+Mike_Alpha's
+<a href="https://www.linkedin.com/in/muhammad-ali-8961b5227/"> LinkedIn</a> </br>
 Mike_Alpha's
 <a href="https://www.instagram.com/programm3r_/" color="Red"> Instagram</a>
 <p/>
