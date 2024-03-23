@@ -43,8 +43,7 @@ In terms of projects, I'm engaged in several exciting endeavors:
 
 Through these projects, I aim to further refine my skills, deepen my understanding of emerging technologies, and contribute meaningfully to the field of Computer Science.
 </br>
-Mike_Alpha's LinkedIn
-</br>
+Mike_Alpha's LinkedIn 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 </br>
 Mike_Alpha's
