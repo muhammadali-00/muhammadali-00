@@ -6,17 +6,23 @@
 
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. My journey in tech has been driven by a relentless pursuit of knowledge and a vision to make a meaningful impact. 
 
-<!--
-**muhammadali-00/muhammadali-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student dedicated to crafting innovative software solutions that address real-world challenges. My journey in technology has been fueled by an insatiable thirst for knowledge and a commitment to making a meaningful impact.
 
-Here are some ideas to get you started:
+Currently, I'm immersing myself in the captivating realms of Machine Learning (ML) and Deep Learning (DL). I firmly believe that these cutting-edge technologies possess the potential to instigate transformative changes, particularly when integrated with Blockchain. My objective is to harness the learning capabilities of ML and DL to enhance the intelligence of blockchain networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My ongoing exploration includes mastering Python frameworks such as Django, SKLearn, Pandas, and Pytorch, as well as delving into C# frameworks like .Net Framework and MVC. Additionally, I'm actively studying Blockchain and Solidity.
+
+In terms of projects, I'm engaged in several exciting endeavors:
+- AI Explorer (In development)
+- Automatic Snake Game (In development)
+- Google Docs Clone
+- AI Pose Detection using Mediapipe
+- Face Detection using CV2
+- AI Handpose Detection
+- AI House Abuse Hand Sign Detection
+- ML Voice Changer (In development)
+- Multi-Vendor E-commerce Store (DBMS)
+- Image Processing System (ML)
+- Pacman Game (Pygame)
+
+Through these projects, I aim to further refine my skills, deepen my understanding of emerging technologies, and contribute meaningfully to the field of Computer Science.
