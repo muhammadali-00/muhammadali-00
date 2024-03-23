@@ -1,5 +1,32 @@
+< style>
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: #050505;
+}
 
-### Muhammad Ali (MiKe_Alpha) 
+h1 {
+  color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+
+
+
+
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+</style>
+<h1>Muhammad Ali (MiKe_Alpha) </h1>
+### 
 ### ᶠYͧoͨᵏu
 ### ▄︻デ𝒲𝑒𝓁𝒸𝑜𝓂𝑒━一💥
 
