@@ -21,7 +21,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 
-</br>
+<br>
 
 I'm  a Computer Science student with a hell of a passion for technology. Im a problem creator by nature and solver by profession. Dedicated to crafting innovative software solutions that address real-world challenges. My journey in technology has been fueled by an insatiable thirst for knowledge and a commitment to making a meaningful impact.
 
