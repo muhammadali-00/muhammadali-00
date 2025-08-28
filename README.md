@@ -42,10 +42,17 @@
 
 ## 🔥 Featured Projects  
 
-- 📧 **Intelligent Email Processor** → ML-powered classification & automation  
-- 🖼️ **Computer Vision Image Sorting** → AI-driven organization workflow  
-- 📝 **Smart Realtime Whiteboard** → Multi-user live collaboration  
-- 🎥 **Smart Security Camera System** → Real-time surveillance with alerts  
+### 📧 Intelligent Email Processor  
+Automated system using **n8n + ML** to classify, route, and perform sentiment analysis on emails → reduces manual work & enables real-time workflows.  
+
+### 🖼️ Computer Vision-Based Image Sorting  
+Engineered a workflow that detects and classifies images by content using **Computer Vision**, automatically organizing storage for large datasets.  
+
+### 📝 Smart Realtime Whiteboard  
+Collaborative web application where multiple users can **draw, write, and sync in real-time** → built with live backend synchronization.  
+
+### 🎥 Smart Security Camera System  
+AI-powered surveillance tool that uses **object detection & CV2** to identify people/objects from live feeds, send alerts, and log events for monitoring.  
 
 <p align="center">
   <a href="https://github.com/muhammadali-00?tab=repositories"><img src="https://img.shields.io/badge/-View%20More%20Projects-ff4757?style=for-the-badge&logo=github&logoColor=white" /></a>
