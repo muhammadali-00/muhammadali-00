@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-    Muhammad Ali (MiKe_Alpha)
+    Muhammad Ali (MiKeAlpha)
 </h1>
 
 <h3 align="center">
@@ -30,7 +30,7 @@
 
 ---
 
-# ⚡ MiKe_Alpha.exe
+# ⚡ MiKeAlpha.exe
 
 ```text
 
